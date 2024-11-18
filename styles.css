@@ -1,0 +1,18 @@
+nav ul{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    /* margin-left: 0 15rem; */
+}
+
+nav ul li{
+    justify-content: space-between;
+    padding-left: 10px;
+    left: -50%;
+}
+h1, h2 {
+    justify-content: center;
+    display: flex;
+    background-color: black;
+    color: white;
+}
